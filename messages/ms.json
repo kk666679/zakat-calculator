@@ -1,0 +1,94 @@
+{
+  "appTitle": "Kalkulator Zakat Kripto ASEAN",
+  "appDescription": "Memenuhi Kewajipan Agama di Era Digital untuk Komuniti ASEAN",
+  "countries": {
+    "MYR": "Malaysia",
+    "SGD": "Singapura",
+    "IDR": "Indonesia",
+    "THB": "Thailand",
+    "PHP": "Filipina",
+    "BND": "Brunei",
+    "KHR": "Kemboja",
+    "LAK": "Laos",
+    "MMK": "Myanmar",
+    "VND": "Vietnam"
+  },
+  "calculator": {
+    "title": "Pengiraan Zakat",
+    "countryLabel": "Negara ASEAN",
+    "amountLabel": "Jumlah Aset Kripto",
+    "debtLabel": "Hutang Semasa",
+    "calculateButton": "KIRA ZAKAT",
+    "calculating": "Mengira...",
+    "resultTitle": "Keputusan Pengiraan",
+    "netAssets": "Jumlah Aset Bersih",
+    "nisabStatus": "Status Nisab",
+    "nisabAbove": "✓ Wajib Zakat",
+    "nisabBelow": "✗ Tidak Wajib",
+    "zakatAmount": "Zakat Wajib (2.5%)",
+    "tokenValue": "Nilai dalam Token"
+  },
+  "guide": {
+    "title": "Panduan Zakat Kripto ASEAN",
+    "backButton": "Kembali ke Utama",
+    "sections": {
+      "whatIsZakat": {
+        "title": "Apakah Zakat Kripto?",
+        "content": "Zakat kripto adalah kewajipan agama untuk mengeluarkan sebahagian daripada aset kripto yang dimiliki kepada golongan yang berhak menerimanya. Seperti zakat emas dan perak, aset kripto juga tertakluk kepada kewajipan zakat jika memenuhi syarat-syarat tertentu.",
+        "points": [
+          "Fatwa JAKIM menetapkan bahawa aset kripto wajib dizakatkan",
+          "Kadar zakat adalah 2.5% dari nilai bersih aset",
+          "Nisab berdasarkan nilai 85 gram emas",
+          "Tempoh haul adalah 354 hari (1 tahun Hijrah)"
+        ]
+      },
+      "howToCalculate": {
+        "title": "Cara Mengira Zakat Kripto",
+        "steps": [
+          "Langkah 1: Kira Nilai Aset",
+          "Jumlahkan semua aset kripto anda dalam mata wang tempatan pada tarikh pengiraan.",
+          "Langkah 2: Tolak Hutang",
+          "Tolak sebarang hutang yang berkaitan dengan pelaburan kripto.",
+          "Langkah 3: Bandingkan dengan Nisab",
+          "Jika nilai bersih melebihi nisab, anda wajib mengeluarkan zakat.",
+          "Langkah 4: Kira Zakat",
+          "Zakat = Nilai Bersih × 2.5%"
+        ]
+      },
+      "howToPay": {
+        "title": "Cara Membayar Zakat",
+        "organizations": [
+          "Malaysia: JAKIM, MAIWP, LZS Negeri",
+          "Singapore: MUIS",
+          "Indonesia: MUI",
+          "Thailand: CICOT",
+          "Philippines: NCMF"
+        ],
+        "methods": [
+          "Dompet kripto (Bitcoin, Ethereum)",
+          "Pindahan bank",
+          "Kad kredit/debit",
+          "E-wallet"
+        ]
+      },
+      "nisabValue": {
+        "title": "Nilai Nisab Terkini (2024)",
+        "mainASEAN": "ASEAN Utama",
+        "otherASEAN": "ASEAN Lain",
+        "note": "*Nilai nisab dikemaskini bulanan berdasarkan harga emas semasa"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "Bayar Zakat",
+    "amountLabel": "Jumlah Zakat",
+    "selectOrganization": "Pilih Organisasi Zakat",
+    "selectPlaceholder": "Pilih organisasi",
+    "payButton": "Bayar Sekarang",
+    "processing": "Memproses...",
+    "successTitle": "Pembayaran Berjaya!",
+    "successMessage": "Terima kasih atas pembayaran zakat anda. Sijil akan dihantar ke emel anda.",
+    "backButton": "Kembali ke Utama",
+    "alertSelectOrg": "Sila pilih organisasi zakat"
+  }
+}

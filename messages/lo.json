@@ -1,0 +1,48 @@
+{
+  "appTitle": "ASEAN Crypto Zakat Calculator",
+  "appDescription": "ການປະຕິບັດພັນທະທາງສາສະໜາໃນຍຸກດິຈິຕອນສຳລັບຊຸມຊົນອາຊຽນ",
+  "calculator": {
+    "title": "ເຄື່ອງຄິດໄລ່ຊະກາດ",
+    "countryLabel": "ປະເທດອາຊຽນ",
+    "amountLabel": "ຈຳນວນຊັບສິນ Crypto",
+    "debtLabel": "ໜີ້ສິນປັດຈຸບັນ",
+    "calculateButton": "ຄິດໄລ່ຊະກາດ",
+    "calculating": "ກຳລັງຄິດໄລ່...",
+    "resultTitle": "ຜົນການຄິດໄລ່",
+    "netAssets": "ຊັບສິນສຸດທິທັງໝົດ",
+    "nisabStatus": "ສະຖານະນິຊາບ",
+    "nisabAbove": "✓ ຕ້ອງຈ່າຍຊະກາດ",
+    "nisabBelow": "✗ ບໍ່ຈຳເປັນ",
+    "zakatAmount": "ຊະກາດທີ່ຕ້ອງຈ່າຍ (2.5%)",
+    "tokenValue": "ມູນຄ່າໂທເຄັນ"
+  },
+  "guide": {
+    "title": "ຄູ່ມືຊະກາດ Crypto",
+    "sections": {
+      "nisabValue": {
+        "title": "ນິຊາບອາຊຽນປັດຈຸບັນ (2024)",
+        "note": "ມູນຄ່ານິຊາບໄດ້ຮັບການປັບປຸງທຸກເດືອນໂດຍອີງໃສ່ລາຄາຄຳປັດຈຸບັນ"
+      },
+      "howToCalculate": {
+        "title": "ວິທີຄິດໄລ່ຊະກາດ"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "ຈ່າຍຊະກາດ",
+    "payButton": "ຈ່າຍດຽວນີ້",
+    "alertSelectOrg": "ກະລຸນາຄິດໄລ່ຊະກາດກ່ອນ"
+  },
+  "countries": {
+    "MYR": "ມາເລເຊຍ",
+    "SGD": "ສິງກະໂປ",
+    "IDR": "ອິນໂດເນເຊຍ",
+    "THB": "ໄທ",
+    "PHP": "ຟິລິບປິນ",
+    "BND": "ບຣູໄນ",
+    "KHR": "ກຳປູເຈຍ",
+    "LAK": "ລາວ",
+    "MMK": "ມຽນມາ",
+    "VND": "ຫວຽດນາມ"
+  }
+}

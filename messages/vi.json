@@ -1,0 +1,94 @@
+{
+  "appTitle": "Máy Tính Zakat Tiền Mã Hóa ASEAN",
+  "appDescription": "Thực hiện nghĩa vụ tôn giáo trong kỷ nguyên số cho cộng đồng ASEAN",
+  "countries": {
+    "MYR": "Malaysia",
+    "SGD": "Singapore",
+    "IDR": "Indonesia",
+    "THB": "Thái Lan",
+    "PHP": "Philippines",
+    "BND": "Brunei",
+    "KHR": "Campuchia",
+    "LAK": "Lào",
+    "MMK": "Myanmar",
+    "VND": "Việt Nam"
+  },
+  "calculator": {
+    "title": "Tính Toán Zakat",
+    "countryLabel": "Quốc Gia ASEAN",
+    "amountLabel": "Số Lượng Tài Sản Mã Hóa",
+    "debtLabel": "Nợ Hiện Tại",
+    "calculateButton": "TÍNH ZAKAT",
+    "calculating": "Đang tính toán...",
+    "resultTitle": "Kết Quả Tính Toán",
+    "netAssets": "Tổng Tài Sản Ròng",
+    "nisabStatus": "Trạng Thái Nisab",
+    "nisabAbove": "✓ Bắt Buộc Zakat",
+    "nisabBelow": "✗ Không Bắt Buộc",
+    "zakatAmount": "Zakat Phải Trả (2.5%)",
+    "tokenValue": "Giá Trị Theo Token"
+  },
+  "guide": {
+    "title": "Hướng Dẫn Zakat Tiền Mã Hóa ASEAN",
+    "backButton": "Quay Về Trang Chủ",
+    "sections": {
+      "whatIsZakat": {
+        "title": "Zakat Tiền Mã Hóa Là Gì?",
+        "content": "Zakat tiền mã hóa là nghĩa vụ tôn giáo để đưa ra một phần tài sản mã hóa của bạn cho những người đủ điều kiện nhận. Giống như zakat vàng và bạc, tài sản mã hóa cũng phải chịu zakat nếu đáp ứng các điều kiện nhất định.",
+        "points": [
+          "Fatwa JAKIM quy định tài sản mã hóa phải chịu zakat",
+          "Tỷ lệ zakat là 2.5% giá trị tài sản ròng",
+          "Nisab dựa trên giá trị 85 gram vàng",
+          "Thời gian haul là 354 ngày (1 năm Hijri)"
+        ]
+      },
+      "howToCalculate": {
+        "title": "Cách Tính Zakat Tiền Mã Hóa",
+        "steps": [
+          "Bước 1: Tính Giá Trị Tài Sản",
+          "Tổng hợp tất cả tài sản mã hóa của bạn bằng tiền tệ địa phương vào ngày tính toán.",
+          "Bước 2: Trừ Nợ",
+          "Trừ bất kỳ khoản nợ nào liên quan đến đầu tư mã hóa.",
+          "Bước 3: So Sánh Với Nisab",
+          "Nếu giá trị ròng vượt quá nisab, zakat là bắt buộc.",
+          "Bước 4: Tính Zakat",
+          "Zakat = Giá Trị Ròng × 2.5%"
+        ]
+      },
+      "howToPay": {
+        "title": "Cách Trả Zakat",
+        "organizations": [
+          "Malaysia: JAKIM, MAIWP, LZS Negeri",
+          "Singapore: MUIS",
+          "Indonesia: MUI",
+          "Thái Lan: CICOT",
+          "Philippines: NCMF"
+        ],
+        "methods": [
+          "Ví tiền mã hóa (Bitcoin, Ethereum)",
+          "Chuyển khoản ngân hàng",
+          "Thẻ tín dụng/ghi nợ",
+          "Ví điện tử"
+        ]
+      },
+      "nisabValue": {
+        "title": "Giá Trị Nisab Hiện Tại (2024)",
+        "mainASEAN": "ASEAN Chính",
+        "otherASEAN": "ASEAN Khác",
+        "note": "*Giá trị nisab được cập nhật hàng tháng dựa trên giá vàng hiện tại"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "Trả Zakat",
+    "amountLabel": "Số Tiền Zakat",
+    "selectOrganization": "Chọn Tổ Chức Zakat",
+    "selectPlaceholder": "Chọn tổ chức",
+    "payButton": "Trả Ngay",
+    "processing": "Đang xử lý...",
+    "successTitle": "Thanh Toán Thành Công!",
+    "successMessage": "Cảm ơn bạn đã trả zakat. Chứng chỉ sẽ được gửi đến email của bạn.",
+    "backButton": "Quay Về Trang Chủ",
+    "alertSelectOrg": "Vui lòng chọn tổ chức zakat"
+  }
+}

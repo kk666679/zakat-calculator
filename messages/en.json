@@ -1,0 +1,94 @@
+{
+  "appTitle": "ASEAN Crypto Zakat Calculator",
+  "appDescription": "Fulfill your religious obligations in the digital era for the ASEAN community",
+  "countries": {
+    "MYR": "Malaysia",
+    "SGD": "Singapore",
+    "IDR": "Indonesia",
+    "THB": "Thailand",
+    "PHP": "Philippines",
+    "BND": "Brunei",
+    "KHR": "Cambodia",
+    "LAK": "Laos",
+    "MMK": "Myanmar",
+    "VND": "Vietnam"
+  },
+  "calculator": {
+    "title": "Zakat Calculation",
+    "countryLabel": "ASEAN Country",
+    "amountLabel": "Crypto Asset Amount",
+    "debtLabel": "Current Debt",
+    "calculateButton": "Calculate Zakat",
+    "calculating": "Calculating...",
+    "resultTitle": "Calculation Result",
+    "netAssets": "Net Asset Amount",
+    "nisabStatus": "Nisab Status",
+    "nisabAbove": "✓ Zakat Obligatory",
+    "nisabBelow": "✗ Not Obligatory",
+    "zakatAmount": "Zakat Due (2.5%)",
+    "tokenValue": "Value in Tokens"
+  },
+  "guide": {
+    "title": "ASEAN Crypto Zakat Guide",
+    "backButton": "Back to Home",
+    "sections": {
+      "whatIsZakat": {
+        "title": "What is Crypto Zakat?",
+        "content": "Crypto zakat is a religious obligation to give a portion of your crypto assets to eligible recipients. Like gold and silver zakat, crypto assets are subject to zakat if certain conditions are met.",
+        "points": [
+          "JAKIM fatwa states crypto assets are zakat liable",
+          "Zakat rate is 2.5% of net asset value",
+          "Nisab based on 85 grams of gold",
+          "Haul period is 354 days (1 Hijri year)"
+        ]
+      },
+      "howToCalculate": {
+        "title": "How to Calculate Crypto Zakat",
+        "steps": [
+          "Step 1: Calculate Asset Value",
+          "Sum all your crypto assets in local currency on calculation date.",
+          "Step 2: Deduct Debts",
+          "Deduct any debts related to crypto investments.",
+          "Step 3: Compare with Nisab",
+          "If net value exceeds nisab, zakat is obligatory.",
+          "Step 4: Calculate Zakat",
+          "Zakat = Net Value × 2.5%"
+        ]
+      },
+      "howToPay": {
+        "title": "How to Pay Zakat",
+        "organizations": [
+          "Malaysia: JAKIM, MAIWP, LZS Negeri",
+          "Singapore: MUIS",
+          "Indonesia: MUI",
+          "Thailand: CICOT",
+          "Philippines: NCMF"
+        ],
+        "methods": [
+          "Crypto wallets (Bitcoin, Ethereum)",
+          "Bank transfers",
+          "Credit/debit cards",
+          "E-wallets"
+        ]
+      },
+      "nisabValue": {
+        "title": "Current Nisab Values (2024)",
+        "mainASEAN": "Main ASEAN",
+        "otherASEAN": "Other ASEAN",
+        "note": "*Nisab values updated monthly based on current gold prices"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "Pay Zakat",
+    "amountLabel": "Zakat Amount",
+    "selectOrganization": "Select Zakat Organization",
+    "selectPlaceholder": "Select an organization",
+    "payButton": "Pay Now",
+    "processing": "Processing...",
+    "successTitle": "Payment Successful!",
+    "successMessage": "Thank you for your zakat payment. A certificate will be sent to your email.",
+    "backButton": "Back to Home",
+    "alertSelectOrg": "Please select a zakat organization"
+  }
+}

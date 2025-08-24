@@ -1,0 +1,48 @@
+{
+  "appTitle": "ASEAN Crypto Zakat Calculator",
+  "appDescription": "ASEAN အသိုင်းအဝိုင်းအတွက် ဒစ်ဂျစ်တယ်ခေတ်တွင် ဘာသာရေးတာဝန်များကို ဖြည့်ဆည်းခြင်း",
+  "calculator": {
+    "title": "ဇကာတ်တွက်ချက်ခြင်း",
+    "countryLabel": "ASEAN နိုင်ငံ",
+    "amountLabel": "Crypto ပိုင်ဆိုင်မှုများ",
+    "debtLabel": "လက်ရှိကြွေးမြီ",
+    "calculateButton": "ဇကာတ်တွက်ချက်ပါ",
+    "calculating": "တွက်ချက်နေသည်...",
+    "resultTitle": "တွက်ချက်မှုရလဒ်",
+    "netAssets": "စုစုပေါင်းသန့်ပိုင်ဆိုင်မှု",
+    "nisabStatus": "နိဿပ်အခြေအနေ",
+    "nisabAbove": "✓ ဇကာတ်လိုအပ်သည်",
+    "nisabBelow": "✗ မလိုအပ်ပါ",
+    "zakatAmount": "လိုအပ်သောဇကာတ် (2.5%)",
+    "tokenValue": "တိုကင်တန်ဖိုး"
+  },
+  "guide": {
+    "title": "Crypto ဇကာတ်လမ်းညွှန်",
+    "sections": {
+      "nisabValue": {
+        "title": "ASEAN လက်ရှိနိဿပ် (2024)",
+        "note": "နိဿပ်တန်ဖိုးကို လက်ရှိရွှေဈေးနှုန်းအပေါ်အခြေခံ၍ လစဉ်အပ်ဒိတ်လုပ်သည်"
+      },
+      "howToCalculate": {
+        "title": "ဇကာတ်တွက်ချက်နည်း"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "ဇကာတ်ပေးချေခြင်း",
+    "payButton": "ယခုပေးချေပါ",
+    "alertSelectOrg": "ကျေးဇူးပြု၍ ဇကာတ်ကို ဦးစွာတွက်ချက်ပါ"
+  },
+  "countries": {
+    "MYR": "မလေးရှား",
+    "SGD": "စင်္ကာပူ",
+    "IDR": "အင်ဒိုနီးရှား",
+    "THB": "ထိုင်း",
+    "PHP": "ဖိလစ်ပိုင်",
+    "BND": "ဘရူနိုင်း",
+    "KHR": "ကမ္ဘောဒီးယား",
+    "LAK": "လာအို",
+    "MMK": "မြန်မာ",
+    "VND": "ဗီယက်နမ်"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "appTitle": "ASEAN Crypto Zakat Calculator",
+  "appDescription": "Fulfilling Religious Obligations in the Digital Age for ASEAN Community",
+  "calculator": {
+    "title": "Zakat Calculator",
+    "countryLabel": "ASEAN Country",
+    "amountLabel": "Crypto Assets Amount",
+    "debtLabel": "Current Debt",
+    "calculateButton": "CALCULATE ZAKAT",
+    "calculating": "Calculating...",
+    "resultTitle": "Calculation Result",
+    "netAssets": "Total Net Assets",
+    "nisabStatus": "Nisab Status",
+    "nisabAbove": "✓ Zakat Required",
+    "nisabBelow": "✗ Not Required",
+    "zakatAmount": "Required Zakat (2.5%)",
+    "tokenValue": "Token Value"
+  },
+  "guide": {
+    "title": "Crypto Zakat Guide",
+    "sections": {
+      "nisabValue": {
+        "title": "Current ASEAN Nisab (2024)",
+        "note": "Nisab values are updated monthly based on current gold prices"
+      },
+      "howToCalculate": {
+        "title": "How to Calculate Zakat"
+      }
+    }
+  },
+  "payZakat": {
+    "title": "Pay Zakat",
+    "payButton": "Pay Now",
+    "alertSelectOrg": "Please calculate zakat first"
+  },
+  "countries": {
+    "MYR": "Malaysia",
+    "SGD": "Singapore", 
+    "IDR": "Indonesia",
+    "THB": "Thailand",
+    "PHP": "Philippines",
+    "BND": "Brunei",
+    "KHR": "Cambodia",
+    "LAK": "Laos",
+    "MMK": "Myanmar",
+    "VND": "Vietnam"
+  }
+}
